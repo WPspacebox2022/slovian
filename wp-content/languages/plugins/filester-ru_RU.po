@@ -1,0 +1,226 @@
+# Translation of Plugins - Filester &#8211; File Manager Pro - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Filester &#8211; File Manager Pro - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-16 12:46:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Filester &#8211; File Manager Pro - Development (trunk)\n"
+
+#: views/pages/html-filemanager-settings.php:140
+#: views/pages/html-filemanager-user-role-restrictions.php:189
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/cross.php:125
+msgid "Recommend"
+msgstr "Рекомендовать"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:139
+msgid "Eg: If you want to set files url path access is <strong>wp-content</strong> folder. Just enter "
+msgstr "Напр.: если вы хотите, чтобы URL-адресом файлов для доступа была папка <strong>wp-content</strong>, Просто введите "
+
+#: views/pages/html-filemanager-user-role-restrictions.php:129
+msgid "Files URL for this User Role"
+msgstr "URL файлов для этой роли пользователя"
+
+#: views/pages/html-filemanager-settings.php:70
+msgid "Files URL"
+msgstr "URL файлов"
+
+#: includes/File_manager/FileManager.php:97
+msgid "Already did"
+msgstr "Уже сделал"
+
+#: includes/File_manager/FileManager.php:96
+msgid "Later"
+msgstr "Позже"
+
+#: includes/File_manager/FileManager.php:95
+msgid "Rate now"
+msgstr "Оценить сейчас"
+
+#: includes/File_manager/FileManager.php:92
+msgid "We will be forever grateful. Thank you in advance ;)"
+msgstr "Мы будем вечно благодарны. Заранее спасибо ;)"
+
+#: includes/File_manager/FileManager.php:89
+msgid "Thank you for choosing Filester. We hope you love it. Could you take a couple of seconds posting a nice review to share your happy experience?"
+msgstr "Благодарим вас за выбор Filester. Мы надеемся, что он вам понравится. Не могли бы вы потратить пару секунд на публикацию хорошего отзыва, чтобы поделиться своим счастливым опытом?"
+
+#: includes/File_manager/FileManager.php:87
+msgid "Give Filester a review"
+msgstr "Оставьте отзыв о Filester"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:177
+msgid "Multiple separated by comma. If left empty, this means user can't upload any files. Eg: .php, .png, .css"
+msgstr "Несколько через запятую. Если оставить поле пустым, это означает, что пользователь не может загружать файлы. Напр.: .php, .png, .css"
+
+#. Plugin Name of the plugin
+msgid "Filester - File Manager Pro"
+msgstr "Filester - File Manager Pro"
+
+#: views/pages/html-filemanager.php:23
+msgid "Windows 10"
+msgstr "Windows 10"
+
+#: views/pages/html-filemanager.php:22
+msgid "Material Light"
+msgstr "Материал светлый"
+
+#: views/pages/html-filemanager.php:21
+msgid "Material Gray"
+msgstr "Материал серый"
+
+#: views/pages/html-filemanager.php:20
+msgid "Material"
+msgstr "Материал"
+
+#: views/pages/html-filemanager.php:19
+msgid "Dark Slim"
+msgstr "Темно-тонкий"
+
+#: views/pages/html-filemanager.php:18
+msgid "Default Elfinder"
+msgstr "elFinder по умолчанию"
+
+#: views/pages/html-filemanager.php:15
+msgid "Select theme:"
+msgstr "Выбрать тему:"
+
+#: views/pages/html-filemanager.php:8
+msgid "Filester - WordPress File Manager Pro"
+msgstr "Filester - Файловый менеджер Pro WordPress"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:171
+msgid "Enter file extensions which user can be Uploaded"
+msgstr "Введите расширения файлов, которые пользователи могут загружать"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:165
+msgid "Multiple separated by vertical bar (|). Eg: .php | .png | .css"
+msgstr "Несколько, разделенных вертикальной чертой (|). Напр.: .php | .png | .css"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:159
+msgid "Enter file extensions which you want to Lock"
+msgstr "Введите расширения файлов, которые требуется заблокировать"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:153
+msgid "Multiple separated by vertical bar (|). Eg: themes/twentytwenty | themes/avada"
+msgstr "Несколько, разделенных вертикальной чертой (|). Напр.: themes/twentytwenty | themes/avada"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:147
+msgid "Enter folder or file paths that you want to Hide"
+msgstr "Введите папку или пути к файлам, которые необходимо скрыть"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:112
+msgid "Insert Root Path"
+msgstr "Вставить корневой путь"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:107
+msgid "Root Path for this User Role"
+msgstr "Корневой путь для этой роли пользователя"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:94
+msgid "Disable command"
+msgstr "Отключить команду"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:79
+#: views/pages/html-filemanager-user-role-restrictions.php:85
+msgid "Please select a User Role at Setings tab to use this option."
+msgstr "Чтобы использовать эту опцию, выберите роль пользователя на вкладке Настройки."
+
+#: views/pages/html-filemanager-user-role-restrictions.php:72
+msgid "Nothing to choose"
+msgstr "Нечего выбирать"
+
+#: views/pages/html-filemanager-user-role-restrictions.php:55
+msgid "If User Role is"
+msgstr "Если роль пользователя"
+
+#: views/pages/html-filemanager-settings.php:131
+msgid "After enable trash, after delete your files will go to trash folder."
+msgstr "После включения функции корзины, после удаления ваши файлы попадут в папку корзины."
+
+#: views/pages/html-filemanager-settings.php:122
+msgid "Enable Trash?"
+msgstr "Включить корзину?"
+
+#: views/pages/html-filemanager-settings.php:116
+msgid "Will Hide .htaccess file (if exists) in file manager."
+msgstr "Скроет файл .htaccess (если он существует) в файловом менеджере."
+
+#: views/pages/html-filemanager-settings.php:105
+msgid "Hide .htaccess?"
+msgstr "Скрыть .htaccess?"
+
+#: views/pages/html-filemanager-settings.php:98
+msgid "Select language"
+msgstr "Выбрать язык"
+
+#: views/pages/html-filemanager-settings.php:91
+msgid "0 means unlimited upload."
+msgstr "0 означает неограниченную загрузку."
+
+#: views/pages/html-filemanager-settings.php:90
+msgid "Default:"
+msgstr "По умолчанию:"
+
+#: views/pages/html-filemanager-settings.php:87
+msgid "MB"
+msgstr "МБ"
+
+#: views/pages/html-filemanager-settings.php:83
+msgid "Maximum Upload Size"
+msgstr "Макс. размер загрузки"
+
+#: views/pages/html-filemanager-settings.php:62
+#: views/pages/html-filemanager-user-role-restrictions.php:121
+msgid "Eg: If you want to set root path access is <strong>wp-content</strong> folder. Just enter "
+msgstr "Например, если вы хотите задать доступ к корневому пути в папке <strong>wp-content</strong>. Просто введите "
+
+#: views/pages/html-filemanager-settings.php:59
+#: views/pages/html-filemanager-settings.php:76
+#: views/pages/html-filemanager-user-role-restrictions.php:118
+#: views/pages/html-filemanager-user-role-restrictions.php:136
+msgid "Default path is: <code>"
+msgstr "Путь по умолчанию: <code>"
+
+#: views/pages/html-filemanager-settings.php:53
+msgid "Root Path"
+msgstr "Корневой путь"
+
+#: views/pages/html-filemanager-settings.php:31
+msgid "Select User Roles to access"
+msgstr "Выбрать роли пользователей для доступа"
+
+#: views/pages/html-filemanager-settings.php:21
+msgid "User Role Restrictions"
+msgstr "Ограничения ролей пользователей"
+
+#: views/pages/html-filemanager-settings.php:20
+msgid "Settings"
+msgstr "Настройки"
+
+#. Author URI of the plugin
+msgid "https://ninjateam.org"
+msgstr "https://ninjateam.org"
+
+#. Author of the plugin
+msgid "Ninja Team"
+msgstr "Ninja Team"
+
+#. Description of the plugin
+msgid "Made to help you focus on WordPress file management and avoid being distracted."
+msgstr "Сделано, чтобы помочь вам сосредоточиться на управлении файлами WordPress и не отвлекаться."
+
+#. Plugin URI of the plugin
+msgid "https://ninjateam.org/filester"
+msgstr "https://ninjateam.org/filester"
+
+#: includes/File_manager/FileManager.php:158
+msgid "Filester"
+msgstr "Filester"
